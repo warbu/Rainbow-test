@@ -7,6 +7,6 @@ gul
 regnbuens
 farver
 Desuden
-blågrøn
+blågrøn 
 Link til tutorial v.1: https://www.youtube.com/watch?v=BCQHnlnPusY
 Link til tutorial v.2: https://www.youtube.com/watch?v=oPpnCh7InLY
