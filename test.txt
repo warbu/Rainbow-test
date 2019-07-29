@@ -1,1 +1,7 @@
-The rainbow: rød grøn blå orange regnbuens farver
+Regnbuen: 
+rød
+grøn
+blå
+orange
+regnbuens
+farver
