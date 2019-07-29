@@ -3,6 +3,8 @@ rød
 grøn
 blå
 orange
+blågrøn
+gul
 regnbuens
 farver
 Link til tutorial v.1: https://www.youtube.com/watch?v=BCQHnlnPusY
